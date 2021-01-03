@@ -1,0 +1,5 @@
+{
+  "files.exclude": {
+    "**/ngrx-pokedex-ngrx-part3": true
+  }
+}
